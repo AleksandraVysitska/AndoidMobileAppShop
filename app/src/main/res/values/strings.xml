@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Negozio</string>
+    <string name="saluto">Ciao, registrati qui sotto:</string>
+    <string name="nome">Nome</string>
+    <string name="cogmone">Cognome</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="registrazione">Registrati</string>
+    <string name="login">Login</string>
+    <string name="campo">*campo obbligatorio</string>
+    <string name="passwordDimenticata">Password dimenticata?</string>
+    <string name="cambiaPassword">Inserisci la tua e-mail</string>
+    <string name="invia">Invia</string>
+    <string name="minCaratteri">*Minimo 8 caratteri</string>
+    <string name="home">Home</string>
+    <string name="offerte">Offerte</string>
+    <string name="carrello">Carrello</string>
+    <string name="profilo">Profilo</string>
+    <string name="tshirt">T-Shirt</string>
+    <string name="camicia">Camice</string>
+    <string name="felpe">Felpe</string>
+    <string name="pantaloni">Pantaloni</string>
+    <string name="scarpe">Scarpe</string>
+    <string name="giacche">Giacche</string>
+    <string name="accessori">Accessori</string>
+    <string name="intimo">Intimo</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="abb">Abbigliamento</string>
+    <string name="maglie">Maglie</string>
+    <string name="gonne">Gonne</string>
+    <string name="abiti">Abiti</string>
+    <string name="cappotti">Capotti</string>
+    <string name="richiestaCredenziali">Vuoi salvare le credenziali di accesso?</string>
+    <string name="required">Campo obbligatorio</string>
+</resources>
